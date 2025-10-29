@@ -7,5 +7,6 @@ public class GitDemo {
 private void syso() {
 	// TODO Auto-generated method stub
 System.out.println("new changes");
+System.out.println("updates from ATE");
 }
 }
